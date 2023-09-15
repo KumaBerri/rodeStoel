@@ -1,4 +1,5 @@
-# Made by Kumaberri
+# Formed by:
+Kumaberri
 # rodeStoel
 C# project FirstClasses
 
